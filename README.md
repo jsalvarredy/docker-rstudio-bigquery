@@ -1,4 +1,4 @@
-# docker-rstudio-bigquery
+# rstudio-bigquery
 RStudio Server image ready for BigQuery
 # Using the rocker/rstudio container
 
